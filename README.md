@@ -40,8 +40,8 @@ This project demonstrates an end-to-end machine learning lifecycle applied to cr
 
 | File | Description |
 |------|-------------|
-| `Dennis_Berdin_Pillar5_Capstone_Project.ipynb` | Full analysis notebook (preprocessing → modelling → evaluation) |
-| `dennis_berdin_capstone_technical_presentation_slides.html` | Technical presentation slides |
+| `Pillar5_Capstone_Project.ipynb` | Full analysis notebook (preprocessing → modelling → evaluation) |
+| `capstone_technical_presentation_slides.html` | Technical presentation slides |
 
 ---
 
@@ -66,7 +66,7 @@ pip install numpy pandas scipy matplotlib seaborn scikit-learn imbalanced-learn 
 ### 3. Run the notebook
 
 ```bash
-jupyter notebook Dennis_Berdin_Pillar5_Capstone_Project.ipynb
+jupyter notebook Pillar5_Capstone_Project.ipynb
 ```
 
 ---
